@@ -26,12 +26,6 @@ The **CHD Prediction System** is a machine learning project developed to analyze
 
 ---
 
-## 📊 Status
-
-🚧 **Currently working on model optimization and result interpretation**  
-The model is functional and trained, with evaluation and fine-tuning in progress.
-
----
 
 ## 🛠️ Tech Stack
 
