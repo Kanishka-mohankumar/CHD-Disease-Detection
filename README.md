@@ -1,4 +1,4 @@
-# ❤️ Coronary Heart Disease (CHD) Prediction
+# Coronary Heart Disease (CHD) Prediction
 
 An intelligent ensemble-based prediction system for estimating the 10-year risk of Coronary Heart Disease (CHD). Built using **Python** and a combination of **XGBoost**, **Random Forest**, and **Logistic Regression** models for enhanced predictive performance.
 
